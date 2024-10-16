@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Next.js and React<br>I'm currently learning Node.js
+MERN stack developer with proficiency in MongoDB, Express.js, React, Node.js, as well as PostgreSQL, MySQL, and PHP, creating dynamic and optimized web applications with seamless backend and frontend integration.
 
 
 ## 🌐 Socials:
